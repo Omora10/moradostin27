@@ -21,14 +21,14 @@
 
 ---
 
-/### 📈 Mis Stats (¡porque sí importan!)
+/*### 📈 Mis Stats (¡porque sí importan!)*/
 
-//<p align="center">
+/*<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moradostin27&show_icons=true&theme=radical" alt="GitHub stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=moradostin27&theme=radical" alt="Streak" />
 </p>//
-
+*/
 ---
 
 ### 📫 ¿Hablamos?
