@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola, soy Mora! 👋</h1>
 
 <p align="center">
-  Ingeniero de Sistemas • Desarrollador Java | Angular | React • Capacitador Digital • Tech Mentor
+  Ingeniero de Sistemas • Desarrollador Java | Angular | React |Power BI | Looker Studio • Capacitador Digital • Tech Mentor
 </p>
 
 ---
@@ -17,17 +17,17 @@
 
 ### 🧰 Tecnologías que uso
 
-<img src="https://skillicons.dev/icons?i=java,spring,angular,react,js,ts,html,css,git,github,figma,linux" alt="stack" />
+<img src="https://skillicons.dev/icons?i=java,spring,angular,react,js,ts,html,css,git,github,figma,linux,powerbi,lookerstudio" alt="stack" />
 
 ---
 
-### 📈 Mis Stats (¡porque sí importan!)
+/### 📈 Mis Stats (¡porque sí importan!)
 
-<p align="center">
+//<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moradostin27&show_icons=true&theme=radical" alt="GitHub stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=moradostin27&theme=radical" alt="Streak" />
-</p>
+</p>//
 
 ---
 
